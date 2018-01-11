@@ -1,0 +1,78 @@
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\nunit.engine.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\nunit.engine.api.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\Mono.Cecil.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\JuiceShopAutomation.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\JuiceShopAutomation.pdb
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\nunit.framework.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\WebDriver.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\nunit.framework.xml
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\WebDriver.xml
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.csproj.CoreCompileInputs.cache
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.dll
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.pdb
+C:\Users\näZAN\source\repos\New Automated Framework\JuiceShopAutomation\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.csprojResolveAssemblyReference.cache
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\nunit.engine.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\nunit.engine.api.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\Mono.Cecil.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\JuiceShopAutomation.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\JuiceShopAutomation.pdb
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\nunit.framework.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\WebDriver.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\nunit.framework.xml
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\WebDriver.xml
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.csproj.CoreCompileInputs.cache
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.pdb
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.csprojResolveAssemblyReference.cache
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\nunit.engine.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\nunit.engine.api.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\Mono.Cecil.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\JuiceShopAutomation.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\JuiceShopAutomation.pdb
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\nunit.framework.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\WebDriver.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\nunit.framework.xml
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\WebDriver.xml
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.csprojResolveAssemblyReference.cache
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.csproj.CoreCompileInputs.cache
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.dll
+C:\Users\näZAN\Source\Repos\JuiceShopSelenium\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.pdb
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\nunit.engine.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\nunit.engine.api.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\Mono.Cecil.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\Expressions\XSSExpressions.txt
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\JuiceShopAutomation.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\JuiceShopAutomation.pdb
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\nunit.framework.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\WebDriver.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\nunit.framework.xml
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\WebDriver.xml
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.Properties.Resources.resources
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.csproj.GenerateResource.Cache
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.csproj.CoreCompileInputs.cache
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.dll
+C:\Users\näZAN\Documents\JuiceShopSelenium\JuiceShopAutomation\obj\Debug\JuiceShopAutomation.pdb
